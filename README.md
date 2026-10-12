@@ -43,7 +43,7 @@ Here are some projects:
 <p><b><a href="https://github.com/gabinollier/unity-voxel-game">Unity Voxel Game</a></b></p>A multithreaded Minecraft-like voxel game, focused on visuals & atmosphere.<p><sub>C# · Unity · URP</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<div align="center"><a href="https://github.com/gabinollier/racing-game"><img src="assets/racing-game.png" height="301" alt="Screenshot of the racing game"></a></div>
+<div align="center"><a href="https://github.com/gabinollier/racing-game"><img src="assets/racing-game.png" width="98.2%" alt="Screenshot of the racing game"></a></div>
 <p><b><a href="https://github.com/gabinollier/racing-game">Racing Game</a></b></p>A Unity racing game for experimenting with Reinforcement Learning.<p><sub>C# · Unity · ML-Agents · Python</sub></p><p></p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ Here are some projects:
 <p><b>Tascal</b></p>A user-friendly UI to create, run & monitor scheduled tasks on top of <code>systemd</code> timers. I use it to schedule my backups and send myself an email if something goes wrong.<p><sub>Rust · React · Linux</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<div align="center"><img src="assets/get-lag.png" height="301" alt="Screenshot of the Get Lag app"></div>
+<div align="center"><img src="assets/get-lag.png" width="82.8%" alt="Screenshot of the Get Lag app"></div>
 <p><b>Get Lag</b></p>A complete social network for students on exchange: posts, reactions, profiles, and more. Has a <a href="https://play.google.com/store/apps/details?id=com.gabinlucas.getlag">mobile app</a> and a <a href="https://getlag.gabinollier.com">web app</a>. Private for now, shared with 20 friends.<p><sub>React Native · Expo · Supabase · S3 · Docker</sub></p><p></p>
 </td>
 </tr>
