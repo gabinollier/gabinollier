@@ -9,62 +9,72 @@ Here are some projects:
 
 </div>
 
-## &nbsp;<img src="assets/icons/web.svg" width="26" height="26" align="middle" hspace="5" alt=""> Web pages & tools
+## &nbsp;<sub><img src="assets/icons/web.svg" width="26" height="26" hspace="5" alt=""></sub> Web pages & tools
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/gatsun-website"><img src="assets/gatsun-website.png" width="100%" alt="Screenshot of gatsun.fr, the Gatsun recording studio website"></a><br><b>Gatsun</b><br>Website & internal booking calendar for INSA Lyon's student recording studio (<a href="https://www.gatsun.fr">live</a>).<br><sub>Next.js · PostgreSQL · Docker</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/gatsun-website"><img src="assets/gatsun-website.png" width="100%" alt="Screenshot of gatsun.fr, the Gatsun recording studio website"></a>
+<p><b><a href="https://github.com/gabinollier/gatsun-website">Gatsun</a></b></p>Website & internal booking calendar for INSA Lyon's student recording studio (<a href="https://www.gatsun.fr">live</a>).<p><sub>Next.js · PostgreSQL · Docker</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/arbre-de-parrainage"><img src="assets/arbre-de-parrainage.png" width="100%" alt="Screenshot of the sponsorship tree editor"></a><br><b>Arbre de Parrainage</b><br>Interactive editor for complex student sponsorship trees, with automatic graph layout & PDF export.<br><sub>TypeScript · Graphviz (WASM) · jsPDF</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/arbre-de-parrainage"><img src="assets/arbre-de-parrainage.png" width="100%" alt="Screenshot of the sponsorship tree editor"></a>
+<p><b><a href="https://github.com/gabinollier/arbre-de-parrainage">Arbre de Parrainage</a></b></p>Interactive editor for complex student sponsorship trees, with automatic graph layout & PDF export.<p><sub>TypeScript · Graphviz (WASM) · jsPDF</sub></p><p></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/koda-landing-page"><img src="assets/koda-landing-page.png" width="100%" alt="Screenshot of the Koda landing page"></a><br><b>Koda</b><br>Landing page of Koda, a lyrics-writing app I'm building.<br><sub>Next.js · Three.js · Tailwind CSS</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/koda-landing-page"><img src="assets/koda-landing-page.png" width="100%" alt="Screenshot of the Koda landing page"></a>
+<p><b><a href="https://github.com/gabinollier/koda-landing-page">Koda</a></b></p>Landing page of Koda, a lyrics-writing app I'm building.<p><sub>Next.js · Three.js · Tailwind CSS</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/srt-checker"><img src="assets/srt-checker.png" width="100%" alt="Screenshot of SRT Checker analyzing a subtitle file"></a><br><b>SRT Checker</b><br>Web app to validate .srt subtitle files against readability rules (timing, line & block lengths).<br><sub>Next.js · TypeScript · Tailwind CSS</sub><br>&nbsp;
-</td>
-</tr>
-</table>
-
-## &nbsp;<img src="assets/icons/games.svg" width="26" height="26" align="middle" hspace="5" alt=""> 3D & games
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gabinollier/unity-voxel-game"><img src="assets/unity-voxel-game.png" width="100%" alt="Screenshot of the voxel game, a lake surrounded by forest"></a><br><b>Unity Voxel Game</b><br>Multithreaded Minecraft-like voxel game, focused on visuals & atmosphere.<br><sub>C# · Unity · URP</sub><br>&nbsp;
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gabinollier/racing-game"><img src="assets/racing-game.png" width="100%" alt="Screenshot of the racing game"></a><br><b>Racing Game</b><br>Unity racing game where an AI learns to drive with reinforcement learning (ML-Agents).<br><sub>C# · Unity · ML-Agents · Python</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/srt-checker"><img src="assets/srt-checker.png" width="100%" alt="Screenshot of SRT Checker analyzing a subtitle file"></a>
+<p><b><a href="https://github.com/gabinollier/srt-checker">SRT Checker</a></b></p>Web app to validate .srt subtitle files against readability rules (timing, line & block lengths).<p><sub>Next.js · TypeScript · Tailwind CSS</sub></p><p></p>
 </td>
 </tr>
 </table>
 
-## &nbsp;<img src="assets/icons/audio.svg" width="26" height="26" align="middle" hspace="5" alt=""> Audio
+## &nbsp;<sub><img src="assets/icons/games.svg" width="26" height="26" hspace="5" alt=""></sub> 3D & games
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/mini-synth"><img src="assets/mini-synth.png" width="100%" alt="Plot comparing the spectrum of a guitar note and its re-synthesis"></a><br><b>Mini Synth</b><br>Python synth: decomposes a sound into sinusoids + envelope, then re-synthesizes whole melodies (including from MIDI files).<br><sub>Python · NumPy · SciPy · Matplotlib</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/unity-voxel-game"><img src="assets/unity-voxel-game.png" width="100%" alt="Screenshot of the voxel game, a lake surrounded by forest"></a>
+<p><b><a href="https://github.com/gabinollier/unity-voxel-game">Unity Voxel Game</a></b></p>Multithreaded Minecraft-like voxel game, focused on visuals & atmosphere.<p><sub>C# · Unity · URP</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/gabinollier/parametric-air"><img src="assets/parametric-air.png" width="100%" alt="Screenshot of the ParametricAir plugin interface"></a><br><b>ParametricAir</b><br>My first audio plugin: adds presence & air with parallel compression and a real-time spectrum display.<br><sub>C++ · JUCE · DSP</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/racing-game"><img src="assets/racing-game.png" width="100%" alt="Screenshot of the racing game"></a>
+<p><b><a href="https://github.com/gabinollier/racing-game">Racing Game</a></b></p>Unity racing game where an AI learns to drive with reinforcement learning (ML-Agents).<p><sub>C# · Unity · ML-Agents · Python</sub></p><p></p>
 </td>
 </tr>
 </table>
 
-## &nbsp;<img src="assets/icons/building.svg" width="26" height="26" align="middle" hspace="5" alt=""> Also building
+## &nbsp;<sub><img src="assets/icons/audio.svg" width="26" height="26" hspace="5" alt=""></sub> Audio
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/tascal.png" width="100%" alt="Screenshot of Tascal, showing a scheduled task and its run history"><br><b>Tascal</b><br>Clean web UI to create, run & monitor scheduled tasks on top of systemd timers, shipped as a single self-contained binary. <sub>(closed-source for now)</sub><br><sub>Rust · React · systemd</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/mini-synth"><img src="assets/mini-synth.png" width="100%" alt="Plot comparing the spectrum of a guitar note and its re-synthesis"></a>
+<p><b><a href="https://github.com/gabinollier/mini-synth">Mini Synth</a></b></p>Python synth: decomposes a sound into sinusoids + envelope, then re-synthesizes whole melodies (including from MIDI files).<p><sub>Python · NumPy · SciPy · Matplotlib</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/get-lag.png" width="100%" alt="Screenshot of the Get Lag app"><br><b>Get Lag</b><br>Social app for students on exchange: weekly photo themes, reactions & streaks. <sub>(closed-source for now)</sub><br><sub>React Native (Expo) · Supabase</sub><br>&nbsp;
+<a href="https://github.com/gabinollier/parametric-air"><img src="assets/parametric-air.png" width="100%" alt="Screenshot of the ParametricAir plugin interface"></a>
+<p><b><a href="https://github.com/gabinollier/parametric-air">ParametricAir</a></b></p>My first audio plugin: adds presence & air with parallel compression and a real-time spectrum display.<p><sub>C++ · JUCE · DSP</sub></p><p></p>
+</td>
+</tr>
+</table>
+
+## &nbsp;<sub><img src="assets/icons/building.svg" width="26" height="26" hspace="5" alt=""></sub> Also building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/tascal.png" width="100%" alt="Screenshot of Tascal, showing a scheduled task and its run history">
+<p><b>Tascal</b></p>Clean web UI to create, run & monitor scheduled tasks on top of systemd timers, shipped as a single self-contained binary. <sub>(closed-source for now)</sub><p><sub>Rust · React · systemd</sub></p><p></p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/get-lag.png" width="100%" alt="Screenshot of the Get Lag app">
+<p><b>Get Lag</b></p>Social app for students on exchange: weekly photo themes, reactions & streaks. <sub>(closed-source for now)</sub><p><sub>React Native (Expo) · Supabase</sub></p><p></p>
 </td>
 </tr>
 </table>
