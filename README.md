@@ -15,7 +15,7 @@ Here are some projects:
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/gabinollier/gatsun-website"><img src="assets/gatsun-website.png" width="100%" alt="Screenshot of gatsun.fr, the Gatsun recording studio website"></a>
-<p><b><a href="https://github.com/gabinollier/gatsun-website">Gatsun</a></b></p>The website & internal booking calendar for INSA Lyon's student recording studio (<a href="https://www.gatsun.fr">gatsun.fr</a>).<p><sub>Next.js · PostgreSQL · Docker</sub></p><p></p>
+<p><b><a href="https://github.com/gabinollier/gatsun-website">Gatsun Website</a></b></p>The website & internal booking calendar for INSA Lyon's student recording studio (<a href="https://www.gatsun.fr">gatsun.fr</a>).<p><sub>Next.js · PostgreSQL · Docker</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/gabinollier/arbre-de-parrainage"><img src="assets/arbre-de-parrainage.png" width="100%" alt="Screenshot of the sponsorship tree editor"></a>
@@ -25,7 +25,7 @@ Here are some projects:
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/gabinollier/koda-landing-page"><img src="assets/koda-landing-page.png" width="100%" alt="Screenshot of the Koda landing page"></a>
-<p><b><a href="https://github.com/gabinollier/koda-landing-page">Koda</a></b></p>A landing page for Koda, a local-first lyrics writing app I'm building.<p><sub>Electron · Supabase · PowerSync · TensorFlow</sub></p><p></p>
+<p><b><a href="https://github.com/gabinollier/koda-landing-page">Koda</a></b></p>A local-first lyrics writing app I'm building.<p><sub>Electron · Supabase · PowerSync · TensorFlow</sub></p><p></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/gabinollier/srt-checker"><img src="assets/srt-checker.png" width="100%" alt="Screenshot of SRT Checker analyzing a subtitle file"></a>
